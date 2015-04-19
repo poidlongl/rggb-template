@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.reactivestreams:reactive-streams:1.0.0.RC1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0.RC1/b1422792b9fdbcffdffa9710f098544f9e625388/reactive-streams-1.0.0.RC1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0.RC1/be7df2e0443eaaf7fb8e4d50ffbc56c9b93cb944/reactive-streams-1.0.0.RC1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
