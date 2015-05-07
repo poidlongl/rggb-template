@@ -22,7 +22,13 @@ repositories {
 
 dependencies {
     compile ratpack.dependency("jackson")
-    compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.2'
-    compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.2'
-    compile group: 'org.apache.logging.log4j', name: 'log4j-slf4j-impl', version: '2.2'
+    compile ratpack.dependency("config")
+    compile ratpack.dependency("pac4j")
+    compile 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.4.4'
+    compile "org.pac4j:pac4j-http:1.6.0"
+
+    runtime group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.2'
+    runtime group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.2'
+    runtime group: 'org.apache.logging.log4j', name: 'log4j-slf4j-impl', version: '2.2'
+
 }
