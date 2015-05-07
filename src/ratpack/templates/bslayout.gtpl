@@ -1,3 +1,5 @@
+package templates
+
 yieldUnescaped '<!DOCTYPE html>'
 
 html ( 'lang': 'de' ) {
@@ -7,6 +9,7 @@ html ( 'lang': 'de' ) {
         meta    ('name': 'viewport', 'content': 'width=device-width, initial-scale=1')
         meta    ('http-equiv': 'X-UA-Compatible', 'content' : 'IE=edge')
         link    ('href': 'css/bootstrap.css', 'rel': 'stylesheet', 'media': 'screen' )
+        link    ('href': '/favicon.ico', 'rel': 'icon', 'type': 'image/ico')
     }
 
     body {

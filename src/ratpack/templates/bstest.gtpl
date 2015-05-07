@@ -1,7 +1,8 @@
+package templates
 
 layout 'bslayout.gtpl' ,
         'title': title ?: 'Poidlongls Testpage',
-        'msg': [text: 'Hello, there', 'level': 'info'],
+        'msg': msg ?: [text: 'Hello, there', 'level': 'info'],
         bodyContents: contents {
 
             div ('class': 'jumbotron') {
