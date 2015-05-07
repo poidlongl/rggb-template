@@ -20,9 +20,6 @@
     <orderEntry type="library" exported="" name="Gradle: io.ratpack:ratpack-core:0.9.15" level="project" />
     <orderEntry type="library" exported="" name="Gradle: io.ratpack:ratpack-groovy:0.9.15" level="project" />
     <orderEntry type="library" exported="" name="Gradle: io.ratpack:ratpack-jackson:0.9.15" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: org.apache.logging.log4j:log4j-api:2.2" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: org.apache.logging.log4j:log4j-core:2.2" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: org.apache.logging.log4j:log4j-slf4j-impl:2.2" level="project" />
     <orderEntry type="library" exported="" name="Gradle: io.netty:netty-handler:4.1.0.Beta4" level="project" />
     <orderEntry type="library" exported="" name="Gradle: io.netty:netty-transport-native-epoll:4.1.0.Beta4:linux-x86_64" level="project" />
     <orderEntry type="library" exported="" name="Gradle: io.netty:netty-codec-http:4.1.0.Beta4" level="project" />
@@ -47,5 +44,19 @@
     <orderEntry type="library" scope="TEST" name="Gradle: io.ratpack:ratpack-test:0.9.15" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: io.ratpack:ratpack-groovy-test:0.9.15" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.slf4j:jcl-over-slf4j:1.7.10" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: io.ratpack:ratpack-config:0.9.15" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: io.ratpack:ratpack-pac4j:0.9.15" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.4.4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.pac4j:pac4j-http:1.6.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.4.4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.4.4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-guava:2.4.4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.pac4j:pac4j-core:1.6.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: io.ratpack:ratpack-session:0.9.15" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-codec:commons-codec:1.7" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.yaml:snakeyaml:1.12" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-api:2.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-core:2.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: org.apache.logging.log4j:log4j-slf4j-impl:2.2" level="project" />
   </component>
 </module>
